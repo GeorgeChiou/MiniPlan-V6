@@ -1,5 +1,4 @@
 # MiniPlan-V6
-MiniPlan V6
 
 Use PLA ( total need about 160g )
 
