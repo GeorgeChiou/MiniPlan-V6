@@ -10,7 +10,7 @@ Self-tapping screw M2 x 8mm x 100 PCS , M1 x 3mm x 27 PCS ( from servo )
 Bearing : 4x8x3 MR84ZZ x 8 PCS
 
 MiniPlan Motion Editor :
-https://www.youtube.com/watch?v=bj2oEcu5rDg
+<a href='https://youtu.be/bj2oEcu5rDg'><img width=480 src='http://img.youtube.com/vi/bj2oEcu5rDg/0.jpg'/></a><br>
 
 Assembly Instruction :
-https://www.youtube.com/watch?v=ROUPnfiN37E
+<a href='https://youtu.be/ROUPnfiN37E'><img width=480 src='http://img.youtube.com/vi/ROUPnfiN37E/0.jpg'/></a><br>
